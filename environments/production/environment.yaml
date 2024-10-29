@@ -18,7 +18,7 @@ app:
     # max number of instances. defaults to 1 if min == 0, otherwise defaults to min
     max: 1
 
-  # enable public endpoint
+  # enable public endpoint remove for now
 #  endpoints: public
   
   resources:
